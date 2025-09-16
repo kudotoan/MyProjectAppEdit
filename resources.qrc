@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>image/a.png</file>
+        <file>image/dropFileHere.jpg</file>
+        <file>image/Picture1.png</file>
+    </qresource>
+</RCC>
